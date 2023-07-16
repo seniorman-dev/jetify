@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250054036519",
+    "project_id": "jetify-247",
+    "storage_bucket": "jetify-247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250054036519:android:3dcf225f4b443bf6255202",
+        "android_client_info": {
+          "package_name": "com.example.jetify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250054036519-khe1ao06jko6b844i8hm2su1f6l6ue17.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCc1MgUieXXp36RBKqe1bIR7cf5MAcS5oE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250054036519-khe1ao06jko6b844i8hm2su1f6l6ue17.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
